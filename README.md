@@ -1,6 +1,5 @@
 # Cadastro_com_Robot
-Automatizando uma página de cadastro web utilzando robot com a biblioteca Global 
-#Realizando automaçaõ de testes de pagina web walk dog, realizado levantamento de 5 cenarios de testes, todos podendo ser exutados individualmente e fácil manipulação de massa de dados, estrutura adequada para facilitar na reutilização do codigo para levantamento de mais cenários
+Realizando automação de testes de pagina web walk dog, utilizando a biblioteca Global realizado levantamento de 5 cenarios de testes, todos podendo ser exutados individualmente e fácil manipulação de massa de dados, estrutura adequada para facilitar na reutilização do codigo para levantamento de mais cenários
 
 ## Pré-requisitos
 
