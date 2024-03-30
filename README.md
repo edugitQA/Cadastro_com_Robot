@@ -1,5 +1,5 @@
 # Cadastro_com_Robot
-Realizando automação de testes de pagina web walk dog, utilizando a biblioteca Global realizado levantamento de 5 cenarios de testes, todos podendo ser exutados individualmente e fácil manipulação de massa de dados, estrutura adequada para facilitar na reutilização do codigo para levantamento de mais cenários
+Realizando automação de testes de pagina web walk dog, utilizando a biblioteca Global realizado levantamento de 5 cenarios de testes, todos podendo ser executados individualmente e com fácil manipulação de massa de dados, estrutura adequada para facilitar na reutilização do codigo para levantamento de mais cenários
 
 ## Pré-requisitos
 
